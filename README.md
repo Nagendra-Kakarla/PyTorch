@@ -1,2 +1,2 @@
 # PyTorch
-PyTorch Tutorials
+PyTorch Computer Vision Tutorials
